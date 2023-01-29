@@ -7,7 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/WALLACEBARCELOS/github-readme-stats">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=WALLACEBARCELOS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?
+   username=WALLACEBARCELOS&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/>
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WALLACEBARCELOS&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
