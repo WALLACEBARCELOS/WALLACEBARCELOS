@@ -1,6 +1,5 @@
 ### Olá, Eu sou o Wallace Barcelos
 
-- 🔭 Hoje desenvolvo com back-end
 - 🌱 Cursando o 6° da faculdade de Sistema de informação
 - 📫 Contate-me no email: Wallacebarcelos5@gmail.com
 - 😄 Pronouns: ele/dele
