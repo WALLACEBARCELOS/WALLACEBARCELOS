@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Wallace Barcelos
 
-- 🌱 Cursando o 6° da faculdade de Sistema de informação
+- 🌱 Cursando o 8° da faculdade de Sistema de informação
 - 📫 Contate-me no email: Wallacebarcelos5@gmail.com
 - 😄 Pronouns: ele/dele
 
